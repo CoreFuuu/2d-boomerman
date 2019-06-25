@@ -1,0 +1,2 @@
+J:\gamemake\practice\Ruby's Adventure\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+J:\gamemake\practice\Ruby's Adventure\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
